@@ -12,5 +12,5 @@ Built pivot tables to analyze opportunities won by quarter, broke down won/lost 
 Objective 3 - Build a Dynamic Dashboard
 Designed an interactive dashboard featuring a scorecard chart, pie chart, and bar chart with regional office and manager slicers to track quarterly sales performance.
 
-Tools & Skills
+Tools & Skills:
 Google Sheets, Pivot Tables, Data Cleaning, Dashboard Design, Data Visualization, Slicers, Charts
