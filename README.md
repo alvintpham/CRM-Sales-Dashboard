@@ -1,16 +1,49 @@
 # CRM Sales Dashboard
-Built an interactive sales dashboard in Google Sheets to help Sales Managers track their team's quarterly performance using 8,800+ B2B sales pipeline records from a fictitious computer hardware company.
 
-**Objectives**
+## Project Overview
+Analyzed 8,800 B2B sales pipeline records from a fictitious computer 
+hardware company using Google Sheets to track quarterly performance, 
+identify top performing sales agents, and visualize won and lost 
+opportunities across 2017.
 
-Objective 1 - Prepare the Data
-Explored and profiled the sales pipeline dataset, conducted data QA, and joined the sales pipeline and sales teams tables to prepare the data for analysis.
+## Objectives
+1. Prepare the Data for Analysis — Profile the sales pipeline, 
+   conduct QA checks, and join it with the sales team table to 
+   bring in manager and regional office data
+2. Explore the Data with Pivot Tables — Analyze quarterly trends 
+   and sales agent performance using pivot tables
+3. Build a Dynamic Dashboard — Visualize the data with charts 
+   and slicers for an interactive sales manager dashboard
 
-Objective 2 - Explore with Pivot Tables
-Built pivot tables to analyze opportunities won by quarter, broke down won/lost percentages, and ranked sales agents by performance in descending order.
+## Skills Demonstrated
+- Data profiling, QA, and table joining in Google Sheets
+- Pivot table creation for quarterly and agent level analysis
+- Win and loss rate analysis across multiple quarters
+- Scorecard, pie chart, and bar chart creation
+- Interactive dashboard design with slicers and filters
 
-Objective 3 - Build a Dynamic Dashboard
-Designed an interactive dashboard featuring a scorecard chart, pie chart, and bar chart with regional office and manager slicers to track quarterly sales performance.
+## Key Findings
+- 4,238 opportunities were won in 2017 with Q4 leading at 1,196 
+  wins and an overall win rate of approximately 63%
+- Darcel Schlecht was the top performer with 349 total wins, 
+  nearly 3.5x more than the lowest performing agent
+- Q1 had significantly fewer opportunities at 531 wins, suggesting 
+  the pipeline was still ramping up early in the year
 
-Tools & Skills:
-Google Sheets, Pivot Tables, Data Cleaning, Dashboard Design, Data Visualization, Slicers, Charts
+## Recommendations
+- Apply top performer strategies across the broader sales team 
+  to improve overall win rates
+- Focus on improving Q1 pipeline volume as it consistently 
+  underperforms compared to other quarters
+- Analyze lost opportunities by region to identify where and 
+  why deals are being lost
+
+## Tools & Technologies
+- Google Sheets
+- Pivot Tables
+- Dashboard Design
+
+## Data Source
+Dataset sourced from Maven Analytics. Download and open the 
+CSV file in Google Sheets before reviewing the dashboard.
+[Maven Analytics](https://maven-datasets.s3.amazonaws.com/CRM+Sales+Opportunities/CRM+Sales+Opportunities.zip)
