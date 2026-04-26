@@ -17,10 +17,10 @@ opportunities across 2017.
 
 ## Skills Demonstrated
 - Data profiling, QA, and table joining in Google Sheets
-- Pivot table creation for quarterly and agent level analysis
-- Win and loss rate analysis across multiple quarters
-- Scorecard, pie chart, and bar chart creation
-- Interactive dashboard design with slicers and filters
+- Pivot table creation for quarterly and agent level performance analysis
+- Win and loss rate analysis across multiple time periods
+- Scorecard, pie chart, and bar chart development
+- Interactive dashboard design with slicers and dynamic filters
 
 ## Key Findings
 - 4,238 opportunities were won in 2017 with Q4 leading at 1,196 
